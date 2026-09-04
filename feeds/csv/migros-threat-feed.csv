@@ -1,4 +1,4 @@
-id,type,indicator,created_at,confidence,source,tags,tlp,notes
+"id","type","indicator","created_at","confidence","source","tags","tlp","notes"
 "1c5c4a2e-89c6-4170-811a-40e3b2382b3e","URL","https://www.facebook.com/profile.php?id=61577038141130","2025-07-09T09:24:03.291Z","-1","MIGROS-CDC","phishing;brand-abuse;migros","TLP:CLEAR","n/a"
 "0ac45599-61d8-4a60-a80e-103602e979cd","URL","https://cutt.ly/Migros-Product-Family_Box","2025-07-09T09:24:03.571Z","-1","MIGROS-CDC","phishing;brand-abuse;migros","TLP:CLEAR","n/a"
 "87ef0b61-ca64-4408-b780-3f1fcc75b505","URL","https://www.facebook.com/profile.php?id=61577647870901","2025-07-09T09:24:04.183Z","-1","MIGROS-CDC","phishing;brand-abuse;migros","TLP:CLEAR","n/a"
@@ -363,3 +363,4 @@ id,type,indicator,created_at,confidence,source,tags,tlp,notes
 "2f14ce23-bdba-4ae7-ae71-e32e4c0bb4ba","URL","https://migros-switzerlandangebot.techniker-tk.com","2026-02-06T09:51:10.502Z","-1","MIGROS-CDC","phishing;brand-abuse;migros","TLP:CLEAR","n/a"
 "56c44f9a-0c58-4e3e-86ce-50214c7c036b","URL","http://umfragemigrosoral-b.realdelasamericas.com","2026-02-14T12:46:26.334Z","-1","MIGROS-CDC","phishing;brand-abuse;migros","TLP:CLEAR","n/a"
 "76916afc-3cde-4b40-94b7-d9d1da4d35c5","URL","https://feedback-galaxs.com","2026-03-03T10:26:11.532Z","-1","MIGROS-CDC","phishing;brand-abuse;migros","TLP:CLEAR","n/a"
+"11111111-1111-4111-8111-111111111111","URL","http://phish.example.test/login","2026-07-15T00:00:00Z","-1","MIGROS-CDC","Phishing;Brand-Abuse","TLP:CLEAR","n/a"
