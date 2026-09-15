@@ -1,13 +1,4 @@
 # Copyright (C) 2025 Migros-Genossenschafts-Bund, Cyber Defense Center.
 # This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
 # To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.
-https://sites.google.com/view/gagnez-migross/%EA%93%9Figros
-https://schweizer-aktionsmarkt.cloudflare-analyticsv1.workers.dev/aktionsmarkt
-https://kundenstimme-schweiz.cloudflare-analyticsv1.workers.dev/kundenumfrage
-https://sites.google.com/view/gagnez-migross/%EA%93%9Figros/
-https://liftcoupons.com/migros/
 https://cumulus-feedback.com
-https://jubilaeumspreise.cloudflare-analyticsv1.workers.dev/jubilaeum
-https://migors-cumulus-login.cloudflare-analyticsv1.workers.dev/konto-sicherheit
-https://social-feed.cloudflare-analyticsv1.workers.dev/social-profile
-https://e30c5.anielogol.com/35218d/68b1daa
