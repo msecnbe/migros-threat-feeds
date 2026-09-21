@@ -5,22 +5,6 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
-            "id": "indicator--dab9310a-2d6d-4387-8d49-9875a9581260",
-            "created": "2026-08-31T01:20:49.287Z",
-            "modified": "2026-08-31T01:20:49.287Z",
-            "name": "n/a",
-            "description": "n/a",
-            "indicator_types": [
-                "malicious-activity"
-            ],
-            "pattern": "[url:value = 'https://www.cumulus-reviews.com/']",
-            "pattern_type": "stix",
-            "pattern_version": "2.1",
-            "valid_from": "2026-08-31T01:20:49.287Z"
-        },
-        {
-            "type": "indicator",
-            "spec_version": "2.1",
             "id": "indicator--4be62d0b-2cee-4e87-8558-827776da5b70",
             "created": "2026-08-21T07:08:43.682Z",
             "modified": "2026-08-21T07:08:43.682Z",
@@ -49,6 +33,22 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2026-09-21T09:34:36.247Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--dab9310a-2d6d-4387-8d49-9875a9581260",
+            "created": "2026-08-31T01:20:49.287Z",
+            "modified": "2026-08-31T01:20:49.287Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://www.cumulus-reviews.com/?test=a']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-08-31T01:20:49.287Z"
         }
     ]
 }
