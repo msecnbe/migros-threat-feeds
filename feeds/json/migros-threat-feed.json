@@ -28,5 +28,20 @@
     ],
     "tlp": "TLP:CLEAR",
     "notes": "n/a"
+  },
+  {
+    "id": "4d9bd3d5-c090-4ead-9862-ddc487b422ef",
+    "type": "URL",
+    "indicator": "https://mein-treuefeedback.com",
+    "created_at": "2026-09-21T09:34:36.247Z",
+    "confidence": -1,
+    "source": "MIGROS-CDC",
+    "tags": [
+      "phishing",
+      "brand-abuse",
+      "migros"
+    ],
+    "tlp": "TLP:CLEAR",
+    "notes": "n/a"
   }
 ]

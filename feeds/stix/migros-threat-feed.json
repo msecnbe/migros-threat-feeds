@@ -33,6 +33,22 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2026-08-21T07:08:43.682Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--4d9bd3d5-c090-4ead-9862-ddc487b422ef",
+            "created": "2026-09-21T09:34:36.247Z",
+            "modified": "2026-09-21T09:34:36.247Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://mein-treuefeedback.com']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-21T09:34:36.247Z"
         }
     ]
 }
