@@ -773,6 +773,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--d2e680c7-c983-4916-bb5c-a6cdc852813e",
+            "created": "2026-09-23T15:01:57.769Z",
+            "modified": "2026-09-23T15:01:57.769Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[domain-name:value = 'amexorg.click']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:01:57.769Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--9df1b6ad-6993-4c2f-afd1-64d021645285",
             "created": "2026-09-23T14:53:55.452Z",
             "modified": "2026-09-23T14:53:55.452Z",
@@ -961,6 +977,22 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2026-09-23T14:45:20.894Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--1ef1d8f9-f665-4c2f-b19b-da004ead4ead",
+            "created": "2026-09-23T15:01:05.430Z",
+            "modified": "2026-09-23T15:01:05.430Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[domain-name:value = 'amexvipgr.click']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:01:05.43Z"
         },
         {
             "type": "indicator",
@@ -1285,6 +1317,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--0f01a27d-7af2-409c-9374-2c9ef48ab2e4",
+            "created": "2026-09-23T15:01:18.722Z",
+            "modified": "2026-09-23T15:01:18.722Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[domain-name:value = 'amexteamgo.click']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:01:18.722Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--7161add5-6ea9-48d8-8020-fa9224451e20",
             "created": "2026-09-23T14:50:59.265Z",
             "modified": "2026-09-23T14:50:59.265Z",
@@ -1557,6 +1605,38 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--78920144-07e5-4526-8c92-6afaeea276cd",
+            "created": "2026-09-23T15:01:11.430Z",
+            "modified": "2026-09-23T15:01:11.430Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[domain-name:value = 'amexvipgo.click']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:01:11.43Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--ac1a5fd1-f071-4c49-bb14-91c51c1b09ff",
+            "created": "2026-09-23T15:00:46.846Z",
+            "modified": "2026-09-23T15:00:46.846Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[domain-name:value = 'amexvipgs.click']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:00:46.846Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--1d1632d3-8876-4ef8-a5f4-7364b352907a",
             "created": "2026-09-23T14:57:30.827Z",
             "modified": "2026-09-23T14:57:30.827Z",
@@ -1605,6 +1685,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--b7e180b9-552d-4fde-b4a7-bc8500e3690a",
+            "created": "2026-09-23T15:01:23.052Z",
+            "modified": "2026-09-23T15:01:23.052Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[domain-name:value = 'amexteams.click']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:01:23.052Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--f287c8f3-1181-44ef-86b8-54b609249ed4",
             "created": "2026-09-23T14:45:31.170Z",
             "modified": "2026-09-23T14:45:31.170Z",
@@ -1649,6 +1745,22 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2026-09-23T14:45:47.174Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--16892abd-c506-42a7-8ce7-9672ed0a4095",
+            "created": "2026-09-23T15:01:30.080Z",
+            "modified": "2026-09-23T15:01:30.080Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[domain-name:value = 'amexvip.top']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:01:30.08Z"
         },
         {
             "type": "indicator",
@@ -1797,6 +1909,38 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--842b39cf-e2c4-42da-8777-22d5ad0b4361",
+            "created": "2026-09-23T15:00:52.743Z",
+            "modified": "2026-09-23T15:00:52.743Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[domain-name:value = 'coopteam.click']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:00:52.743Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--452a6858-4bfb-4df0-9da4-f1bac6238947",
+            "created": "2026-09-23T15:02:01.983Z",
+            "modified": "2026-09-23T15:02:01.983Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[domain-name:value = '1.isownisoupahgu.xyz']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:02:01.983Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--69699d66-b739-4045-a2b6-1d971b851805",
             "created": "2026-09-23T14:58:51.254Z",
             "modified": "2026-09-23T14:58:51.254Z",
@@ -1825,6 +1969,54 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2026-09-23T14:54:11.579Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--e172020a-2268-47ee-a104-907c70d898d5",
+            "created": "2026-09-23T15:01:52.812Z",
+            "modified": "2026-09-23T15:01:52.812Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[domain-name:value = 'amexteams.top']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:01:52.812Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--788493ef-083a-4152-a307-380946f0f9da",
+            "created": "2026-09-23T15:01:32.823Z",
+            "modified": "2026-09-23T15:01:32.823Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[domain-name:value = 'amexvip.cfd']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:01:32.823Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--4d80eeea-d71a-495c-bebb-0741019acd1b",
+            "created": "2026-09-23T15:01:41.054Z",
+            "modified": "2026-09-23T15:01:41.054Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[domain-name:value = 'amexvipgc.click']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:01:41.054Z"
         },
         {
             "type": "indicator",
@@ -2001,6 +2193,22 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2026-09-23T14:43:48.377Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--5175b38c-7258-40fd-8175-048cb30e765e",
+            "created": "2026-09-23T15:01:35.622Z",
+            "modified": "2026-09-23T15:01:35.622Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[domain-name:value = 'amexteam.top']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:01:35.622Z"
         },
         {
             "type": "indicator",
@@ -2597,6 +2805,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--df77404f-c7fa-4fe5-b0b7-40dcc6328374",
+            "created": "2026-09-23T15:01:46.764Z",
+            "modified": "2026-09-23T15:01:46.764Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[domain-name:value = 'amexteame.click']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:01:46.764Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--076196ee-e7ff-4bdc-b377-29b6e7a563cd",
             "created": "2026-09-23T14:58:33.176Z",
             "modified": "2026-09-23T14:58:33.176Z",
@@ -2641,6 +2865,22 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2026-09-23T14:45:14.667Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--8bae004f-375c-4653-a39c-d23d0809e900",
+            "created": "2026-09-23T15:00:58.973Z",
+            "modified": "2026-09-23T15:00:58.973Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[domain-name:value = 'migros-cumulusbonus.click']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:00:58.973Z"
         },
         {
             "type": "indicator",
@@ -2801,6 +3041,22 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2026-09-23T14:53:03.307Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--82cd5d96-22d5-4961-be9b-a76fd28f724b",
+            "created": "2026-09-23T15:00:31.269Z",
+            "modified": "2026-09-23T15:00:31.269Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[domain-name:value = 'coopvips.top']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:00:31.269Z"
         },
         {
             "type": "indicator",
@@ -2977,6 +3233,22 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2026-09-23T14:57:00.998Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--c3a9b0c7-3ac6-4fbd-85ae-8df1fb1a29dc",
+            "created": "2026-09-23T15:00:34.815Z",
+            "modified": "2026-09-23T15:00:34.815Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[domain-name:value = 'correosvip.click']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:00:34.815Z"
         },
         {
             "type": "indicator",
@@ -3221,6 +3493,70 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--d12d8146-f8c6-4eb6-8890-688da83db634",
+            "created": "2026-09-23T15:02:28.961Z",
+            "modified": "2026-09-23T15:02:28.961Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://www.facebook.com/profile.php?id=61578383843308']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:02:28.961Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--e599082d-41d7-4ce9-9f78-d0ebecafe486",
+            "created": "2026-09-23T15:02:16.904Z",
+            "modified": "2026-09-23T15:02:16.904Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://paperorpen.com/giftcard/redeem']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:02:16.904Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--5b4f1a8a-d90d-42ab-95e6-fcc7903cf20b",
+            "created": "2026-09-23T15:02:34.511Z",
+            "modified": "2026-09-23T15:02:34.511Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://geometrically.infivolt.eu/OqpaAArlNn7/']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:02:34.511Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--9c50c7d2-7824-41a9-9da5-e8f6860d7af6",
+            "created": "2026-09-23T15:02:59.368Z",
+            "modified": "2026-09-23T15:02:59.368Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://glumotron.pro/the-highlight/23387946/ev-battery-lithium-recycling-us/']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:02:59.368Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--31838fd9-74c2-4103-a1f8-75382f1634bf",
             "created": "2026-09-23T14:49:10.248Z",
             "modified": "2026-09-23T14:49:10.248Z",
@@ -3249,6 +3585,22 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2026-09-23T14:46:52.598Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--b58b1d68-af18-4450-bb92-3994c2a020f1",
+            "created": "2026-09-23T15:02:54.517Z",
+            "modified": "2026-09-23T15:02:54.517Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://tinyurl.com/4pf6f2z6']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:02:54.517Z"
         },
         {
             "type": "indicator",
@@ -3429,6 +3781,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--32571fe4-e74d-4661-bb9d-6417553d88f0",
+            "created": "2026-09-23T15:02:43.746Z",
+            "modified": "2026-09-23T15:02:43.746Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://www.facebook.com/share/p/1CWujt7qdB']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:02:43.746Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--82b1a731-a40c-477e-92ff-9684c7ad89e6",
             "created": "2026-09-23T14:48:06.177Z",
             "modified": "2026-09-23T14:48:06.177Z",
@@ -3525,6 +3893,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--551409f6-0a18-40e2-ae09-e0692c1d9c13",
+            "created": "2026-09-23T15:02:52.812Z",
+            "modified": "2026-09-23T15:02:52.812Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://connectfusion.life/say-hello-to-next-level-barrier-repair/']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:02:52.812Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--d94969c6-10d2-4682-9d78-076e1754a56d",
             "created": "2026-09-23T14:48:50.235Z",
             "modified": "2026-09-23T14:48:50.235Z",
@@ -3553,6 +3937,22 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2026-09-23T14:47:39.604Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--b817a223-5784-45e0-ac99-44b5d90c3f4d",
+            "created": "2026-09-23T15:02:25.254Z",
+            "modified": "2026-09-23T15:02:25.254Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://prizefox.click']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:02:25.254Z"
         },
         {
             "type": "indicator",
@@ -3589,6 +3989,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--61cb7e80-739f-44f0-b641-014e284d59c4",
+            "created": "2026-09-23T15:02:21.152Z",
+            "modified": "2026-09-23T15:02:21.152Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://tradexis.click']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:02:21.152Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--1dcbd135-5f4d-4f9a-b1d3-48a3e4e101dd",
             "created": "2026-09-23T14:50:30.959Z",
             "modified": "2026-09-23T14:50:30.959Z",
@@ -3617,6 +4033,22 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2026-09-23T14:46:04.438Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--1b395a3a-e057-47d4-ad26-7f1922f42da9",
+            "created": "2026-09-23T15:02:48.795Z",
+            "modified": "2026-09-23T15:02:48.795Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://sites.google.com/view/gagnez-migross/Migros']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:02:48.795Z"
         },
         {
             "type": "indicator",
@@ -3745,6 +4177,22 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2026-09-23T14:44:19.154Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--80904c86-0f09-490c-a20f-1bd380503132",
+            "created": "2026-09-23T15:02:31.947Z",
+            "modified": "2026-09-23T15:02:31.947Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://clientshareflie.juelc.click/aedc7598ecfa483c93e5a8eae1178ae9']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:02:31.947Z"
         },
         {
             "type": "indicator",
@@ -3893,6 +4341,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--f7211dda-30ea-43e4-8be8-3b87cb4ef069",
+            "created": "2026-09-23T15:02:36.487Z",
+            "modified": "2026-09-23T15:02:36.487Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://migros.ch.survey.ydns.eu']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:02:36.487Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--8dd807ca-5458-4a9b-9221-834aa4a94761",
             "created": "2026-09-23T14:48:42.398Z",
             "modified": "2026-09-23T14:48:42.398Z",
@@ -3953,6 +4417,22 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2026-09-23T14:42:58.427Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--3f9f4264-1b8b-4a80-aa89-57276f96aa89",
+            "created": "2026-09-23T15:02:42.144Z",
+            "modified": "2026-09-23T15:02:42.144Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://zpr.io/UqySyyLYkjNH']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:02:42.144Z"
         },
         {
             "type": "indicator",
@@ -4113,6 +4593,22 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2026-09-23T14:47:09.332Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--61a905bb-5189-4742-af79-1ff633d42c32",
+            "created": "2026-09-23T15:02:19.803Z",
+            "modified": "2026-09-23T15:02:19.803Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://digitec.produkt-kaufen.lat/schweiz/produkt']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:02:19.803Z"
         },
         {
             "type": "indicator",
@@ -4613,6 +5109,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--3a3fd2f0-96a6-4334-9d4d-0cf9b22b1e0b",
+            "created": "2026-09-23T15:02:10.819Z",
+            "modified": "2026-09-23T15:02:10.819Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://migrosangebote.top']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:02:10.819Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--ca05fa8b-f9d4-464d-84ab-43d321db1399",
             "created": "2026-09-23T14:47:51.748Z",
             "modified": "2026-09-23T14:47:51.748Z",
@@ -4625,6 +5137,22 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2026-09-23T14:47:51.748Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--8bebba26-89aa-49fb-8ef9-f8fa6b8cd833",
+            "created": "2026-09-23T15:02:45.939Z",
+            "modified": "2026-09-23T15:02:45.939Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://www.migroscooperatives.com']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:02:45.939Z"
         },
         {
             "type": "indicator",
@@ -4693,6 +5221,22 @@
         {
             "type": "indicator",
             "spec_version": "2.1",
+            "id": "indicator--0e107a40-6f02-4a79-add7-e87c2b1519cb",
+            "created": "2026-09-23T15:02:08.569Z",
+            "modified": "2026-09-23T15:02:08.569Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://www.migrospremium.top']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:02:08.569Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
             "id": "indicator--c3324209-17f3-4c52-91b1-f25fc7ec5957",
             "created": "2026-09-23T14:50:38.182Z",
             "modified": "2026-09-23T14:50:38.182Z",
@@ -4737,6 +5281,22 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2026-09-23T14:42:24.145Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--9d0c26e0-2443-4c62-a5b5-9cfb46a13fa0",
+            "created": "2026-09-23T15:02:40.431Z",
+            "modified": "2026-09-23T15:02:40.431Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://marketop.click']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:02:40.431Z"
         },
         {
             "type": "indicator",
@@ -4833,6 +5393,22 @@
             "pattern_type": "stix",
             "pattern_version": "2.1",
             "valid_from": "2026-09-23T14:47:11.714Z"
+        },
+        {
+            "type": "indicator",
+            "spec_version": "2.1",
+            "id": "indicator--9114f4bd-54fc-44b8-9164-c4a96286d877",
+            "created": "2026-09-23T15:02:15.119Z",
+            "modified": "2026-09-23T15:02:15.119Z",
+            "name": "n/a",
+            "description": "n/a",
+            "indicator_types": [
+                "malicious-activity"
+            ],
+            "pattern": "[url:value = 'https://migrosgeschenk.top']",
+            "pattern_type": "stix",
+            "pattern_version": "2.1",
+            "valid_from": "2026-09-23T15:02:15.119Z"
         },
         {
             "type": "indicator",
